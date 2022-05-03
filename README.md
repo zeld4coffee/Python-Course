@@ -13,7 +13,7 @@ Dentro de cada pasta existe um arquivo "main.py" com o código
 
 Inside each folder there is a "main.py" file with the code
 
-# Have License?
+# Tem Licensa? Have License?
 
 
 > Todo código desenvolvido aqui é livre para ser usado, baixado como quiser.
